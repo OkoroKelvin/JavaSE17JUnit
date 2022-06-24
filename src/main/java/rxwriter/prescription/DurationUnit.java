@@ -18,7 +18,7 @@ public enum DurationUnit {
         this.multiplier = multiplier;
     }
 
-    public int getMultiplier() {
+    public int getMultiplier(){
         return multiplier;
     }
 
